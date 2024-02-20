@@ -150,7 +150,11 @@ CMakeFiles/Spatial_Resolution.dir/Spatial_Resolution.cc.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/fstream \
+ /usr/include/c++/11/bits/codecvt.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
+ /usr/include/c++/11/bits/fstream.tcc \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4RunManager.hh \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
@@ -233,8 +237,7 @@ CMakeFiles/Spatial_Resolution.dir/Spatial_Resolution.cc.o: \
  /usr/include/c++/11/bits/locale_facets_nonio.h /usr/include/c++/11/ctime \
  /usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/messages_members.h \
- /usr/include/libintl.h /usr/include/c++/11/bits/codecvt.h \
- /usr/include/c++/11/bits/locale_facets_nonio.tcc \
+ /usr/include/libintl.h /usr/include/c++/11/bits/locale_facets_nonio.tcc \
  /usr/include/c++/11/bits/locale_conv.h \
  /usr/include/c++/11/bits/unique_ptr.h \
  /usr/include/c++/11/bits/quoted_string.h /usr/include/c++/11/map \
@@ -351,10 +354,6 @@ CMakeFiles/Spatial_Resolution.dir/Spatial_Resolution.cc.o: \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4MaterialPropertyVector.hh \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4PhysicsFreeVector.hh \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4PhysicsVector.hh \
- /usr/include/c++/11/fstream \
- /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
- /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
- /usr/include/c++/11/bits/fstream.tcc \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4PhysicsVectorType.hh \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4PhysicsVector.icc \
  /home/vsevolod/geant4/geant4-v11.0.0-install/include/Geant4/G4IonisParamMat.hh \
